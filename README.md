@@ -1,6 +1,6 @@
-# living-writer
+# Vue + Webpack Simple Start Kit
 
-> A Vue.js project
+> Vue 2.5.11 + Webpack 3.6
 
 ## Build Setup
 
@@ -14,5 +14,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
