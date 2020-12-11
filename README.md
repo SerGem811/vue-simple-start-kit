@@ -1,6 +1,7 @@
 # Vue + Webpack Simple Start Kit
 
 > Vue 2.5.11 + Webpack 3.6
+> Fontawesome, Bootstrap-vue
 
 ## Build Setup
 
